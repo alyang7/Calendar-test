@@ -1,4 +1,4 @@
-import React from 'react';
+/*import React from 'react';
 import "./App.css";
 import FullCalendar from '@fullcalendar/react'
 import dayGridPlugin from '@fullcalendar/daygrid' // a plugin!
@@ -23,7 +23,7 @@ function App() {
                   dateClick={handleDateClick}
               />
           </div>
-
+          <a href="/DemoApp.jsx">here</a>
           <div>
               <h1>Booking Page</h1>
               <p>This is the Booking page of our application.</p>
@@ -32,4 +32,4 @@ function App() {
 	);
 }
 
-export default App;
+export default App;*/
